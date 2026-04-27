@@ -333,7 +333,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 
 <div align="center">
-   <img width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/2048px-WebStorm_Icon.svg.png" alt="webstorm img">
+   <img width="220px" src="https://github.com/JoshuaThadi/IDE-Cosmo/blob/main/assests/WebStorm_Icon.svg.png" alt="webstorm img">
 </div>
 
 <h1 align="center"> 🛠 WebStorm Professional Setup</h1>
